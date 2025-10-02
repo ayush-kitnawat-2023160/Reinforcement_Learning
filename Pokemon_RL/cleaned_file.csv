@@ -1,0 +1,83 @@
+col,pixelated src,pixelated src (2),Power,Accuracy,col (6),col (8)
+"10,000,000 Volt Thunderbolt",Electric,Special,"Power
+195","Accuracy
+—","PP
+1",Very high critical hit ratio.
+Absorb,Grass,Special,"Power
+20","Accuracy
+100%","PP
+40",User recovers 50% of the damage dealt.
+Accelerock,Rock,Physical,"Power
+40","Accuracy
+100%","PP
+32",Usually goes first.
+Acid,Poison,Special,"Power
+40","Accuracy
+100%","PP
+48",10% chance to lower the foe(s) Sp. Def by 1.
+Acid Armor,Poison,Status,,"Accuracy
+—","PP
+32",Raises the user's Defense by 2.
+Acid Downpour,Poison,Physical,"Power
+1","Accuracy
+—","PP
+1",Power is equal to the base move's Z-Power.
+Acid Spray,Poison,Special,"Power
+40","Accuracy
+100%","PP
+32",100% chance to lower the target's Sp. Def by 2.
+Acrobatics,Flying,Physical,"Power
+55","Accuracy
+100%","PP
+24",Power doubles if the user has no held item.
+Acupressure,Normal,Status,,"Accuracy
+—","PP
+48",Raises a random stat of the user or an ally by 2.
+Aerial Ace,Flying,Physical,"Power
+60","Accuracy
+—","PP
+32",This move does not check accuracy.
+Aeroblast,Flying,Special,"Power
+100","Accuracy
+95%","PP
+8",High critical hit ratio.
+After You,Normal,Status,,"Accuracy
+—","PP
+24",The target makes its move right after the user.
+Agility,Psychic,Status,,"Accuracy
+—","PP
+48",Raises the user's Speed by 2.
+Air Cutter,Flying,Special,"Power
+60","Accuracy
+95%","PP
+40",High critical hit ratio. Hits adjacent foes.
+Air Slash,Flying,Special,"Power
+75","Accuracy
+95%","PP
+24",30% chance to make the target flinch.
+All-Out Pummeling,Fighting,Physical,"Power
+1","Accuracy
+—","PP
+1",Power is equal to the base move's Z-Power.
+Alluring Voice,Fairy,Special,"Power
+80","Accuracy
+100%","PP
+16",100% confuse target that had a stat rise this turn.
+Ally Switch,Psychic,Status,,"Accuracy
+—","PP
+24",User and ally swap positions; using again can fail.
+Amnesia,Psychic,Status,,"Accuracy
+—","PP
+32",Raises the user's Sp. Def by 2.
+Anchor Shot,Steel,Physical,"Power
+80","Accuracy
+100%","PP
+32",Prevents the target from switching out.
+Ancient Power,Rock,Special,"Power
+60","Accuracy
+100%","PP
+8",10% chance to raise all stats by 1 (not acc/eva).
+Apple Acid,Grass,Special,"Power
+80","Accuracy
+100%","PP
+16",100% chance to lower the target's Sp. Def by 1.

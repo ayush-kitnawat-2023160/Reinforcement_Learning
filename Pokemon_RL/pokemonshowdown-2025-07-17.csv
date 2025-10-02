@@ -1,0 +1,83 @@
+result href,col,pixelated src,pixelated src (2),col (2),col (4),col (6),col (8)
+https://dex.pokemonshowdown.com/moves/10000000voltthunderbolt,"10,000,000 Volt Thunderbolt",https://play.pokemonshowdown.com/sprites/types/Electric.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+195","Accuracy
+—","PP
+1",Very high critical hit ratio.
+https://dex.pokemonshowdown.com/moves/absorb,Absorb,https://play.pokemonshowdown.com/sprites/types/Grass.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+20","Accuracy
+100%","PP
+40",User recovers 50% of the damage dealt.
+https://dex.pokemonshowdown.com/moves/accelerock,Accelerock,https://play.pokemonshowdown.com/sprites/types/Rock.png,https://play.pokemonshowdown.com/sprites/categories/Physical.png,"Power
+40","Accuracy
+100%","PP
+32",Usually goes first.
+https://dex.pokemonshowdown.com/moves/acid,Acid,https://play.pokemonshowdown.com/sprites/types/Poison.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+40","Accuracy
+100%","PP
+48",10% chance to lower the foe(s) Sp. Def by 1.
+https://dex.pokemonshowdown.com/moves/acidarmor,Acid Armor,https://play.pokemonshowdown.com/sprites/types/Poison.png,https://play.pokemonshowdown.com/sprites/categories/Status.png,,"Accuracy
+—","PP
+32",Raises the user's Defense by 2.
+https://dex.pokemonshowdown.com/moves/aciddownpour,Acid Downpour,https://play.pokemonshowdown.com/sprites/types/Poison.png,https://play.pokemonshowdown.com/sprites/categories/Physical.png,"Power
+1","Accuracy
+—","PP
+1",Power is equal to the base move's Z-Power.
+https://dex.pokemonshowdown.com/moves/acidspray,Acid Spray,https://play.pokemonshowdown.com/sprites/types/Poison.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+40","Accuracy
+100%","PP
+32",100% chance to lower the target's Sp. Def by 2.
+https://dex.pokemonshowdown.com/moves/acrobatics,Acrobatics,https://play.pokemonshowdown.com/sprites/types/Flying.png,https://play.pokemonshowdown.com/sprites/categories/Physical.png,"Power
+55","Accuracy
+100%","PP
+24",Power doubles if the user has no held item.
+https://dex.pokemonshowdown.com/moves/acupressure,Acupressure,https://play.pokemonshowdown.com/sprites/types/Normal.png,https://play.pokemonshowdown.com/sprites/categories/Status.png,,"Accuracy
+—","PP
+48",Raises a random stat of the user or an ally by 2.
+https://dex.pokemonshowdown.com/moves/aerialace,Aerial Ace,https://play.pokemonshowdown.com/sprites/types/Flying.png,https://play.pokemonshowdown.com/sprites/categories/Physical.png,"Power
+60","Accuracy
+—","PP
+32",This move does not check accuracy.
+https://dex.pokemonshowdown.com/moves/aeroblast,Aeroblast,https://play.pokemonshowdown.com/sprites/types/Flying.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+100","Accuracy
+95%","PP
+8",High critical hit ratio.
+https://dex.pokemonshowdown.com/moves/afteryou,After You,https://play.pokemonshowdown.com/sprites/types/Normal.png,https://play.pokemonshowdown.com/sprites/categories/Status.png,,"Accuracy
+—","PP
+24",The target makes its move right after the user.
+https://dex.pokemonshowdown.com/moves/agility,Agility,https://play.pokemonshowdown.com/sprites/types/Psychic.png,https://play.pokemonshowdown.com/sprites/categories/Status.png,,"Accuracy
+—","PP
+48",Raises the user's Speed by 2.
+https://dex.pokemonshowdown.com/moves/aircutter,Air Cutter,https://play.pokemonshowdown.com/sprites/types/Flying.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+60","Accuracy
+95%","PP
+40",High critical hit ratio. Hits adjacent foes.
+https://dex.pokemonshowdown.com/moves/airslash,Air Slash,https://play.pokemonshowdown.com/sprites/types/Flying.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+75","Accuracy
+95%","PP
+24",30% chance to make the target flinch.
+https://dex.pokemonshowdown.com/moves/alloutpummeling,All-Out Pummeling,https://play.pokemonshowdown.com/sprites/types/Fighting.png,https://play.pokemonshowdown.com/sprites/categories/Physical.png,"Power
+1","Accuracy
+—","PP
+1",Power is equal to the base move's Z-Power.
+https://dex.pokemonshowdown.com/moves/alluringvoice,Alluring Voice,https://play.pokemonshowdown.com/sprites/types/Fairy.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+80","Accuracy
+100%","PP
+16",100% confuse target that had a stat rise this turn.
+https://dex.pokemonshowdown.com/moves/allyswitch,Ally Switch,https://play.pokemonshowdown.com/sprites/types/Psychic.png,https://play.pokemonshowdown.com/sprites/categories/Status.png,,"Accuracy
+—","PP
+24",User and ally swap positions; using again can fail.
+https://dex.pokemonshowdown.com/moves/amnesia,Amnesia,https://play.pokemonshowdown.com/sprites/types/Psychic.png,https://play.pokemonshowdown.com/sprites/categories/Status.png,,"Accuracy
+—","PP
+32",Raises the user's Sp. Def by 2.
+https://dex.pokemonshowdown.com/moves/anchorshot,Anchor Shot,https://play.pokemonshowdown.com/sprites/types/Steel.png,https://play.pokemonshowdown.com/sprites/categories/Physical.png,"Power
+80","Accuracy
+100%","PP
+32",Prevents the target from switching out.
+https://dex.pokemonshowdown.com/moves/ancientpower,Ancient Power,https://play.pokemonshowdown.com/sprites/types/Rock.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+60","Accuracy
+100%","PP
+8",10% chance to raise all stats by 1 (not acc/eva).
+https://dex.pokemonshowdown.com/moves/appleacid,Apple Acid,https://play.pokemonshowdown.com/sprites/types/Grass.png,https://play.pokemonshowdown.com/sprites/categories/Special.png,"Power
+80","Accuracy
+100%","PP
+16",100% chance to lower the target's Sp. Def by 1.
